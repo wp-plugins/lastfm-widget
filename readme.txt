@@ -25,5 +25,8 @@ Lastfm tracklist and album quilt.
 
 It's easy to maintain clean your templetes and put where you want your lastfm tracklist or your album quilt.
 
+== Screenshots ==
 
+1. No screenshots
 
+== Arbitrary section ==
